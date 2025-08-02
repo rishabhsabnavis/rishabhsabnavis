@@ -29,10 +29,3 @@ Hi! My name is Rishabh Sabnavis, and I am an AI Software Engineer and Music Prod
 
 I am currently working on agentic AI applications with LangGraph. To be more specific, I am currently working with voice agents and auditory AI applications. 
 
-#
-
-
-#
-
-
-#
