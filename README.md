@@ -3,6 +3,10 @@
 **`Developer, Music Producer, and Creator`**
 
 Hi! My name is Rishabh Sabnavis, and I am an AI Software Engineer and Music Producer who's trying to spread my energy and identity in the digital world through my music and projects, while innovating the future tech world. My motivation stems from problems and workflows that I experience in my day-to-day life. I promote the use of AI to supercharge learning and developing ideas. My strength comes from my creative ability and vision, and I hope to apply my creative thinking to the big tech world. 
+<p align="left">
+      
+   </p>
+
 ---
 
 ### 🧰 Languages and Tools
